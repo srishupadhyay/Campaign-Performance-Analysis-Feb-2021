@@ -1,4 +1,4 @@
-# Campaign Performance Analysis - Feb 2021
+# Digital Marketing Campaign Analysis - Feb 2021
 
 ## Project Overview
 
@@ -84,19 +84,32 @@ This project analyzed the performance of multiple marketing campaigns across var
 
 
 
-1. What is the overall ROMI for all campaigns?
+#### 1. What is the overall ROMI for all campaigns?
 
 The overall ROMI metric serves as the primary measure of campaign success. In this analysis, the average ROMI is 42.61%, with a maximum of 559.40% and a minimum of -100.00%. These values help gauge the effectiveness of various campaigns, highlighting both high performers and areas for improvement.
+<p align="center">
+  
+  <img src="https://github.com/user-attachments/assets/ea5ee40d-23c7-48fe-9c86-809ac38df26b" style="width: 400px;"/>
+</div>
 
-2. What are the ROMI values for each campaign?
+#### 2. What are the ROMI values for each campaign?
 
 The YouTube Blogger campaign stands out with an average ROMI of 306.87%, demonstrating significant efficiency in turning marketing spending into revenue. On the contrary, the Facebook LAL campaign has a highly negative ROMI of -87.65%, indicating ineffective use of the budget. Other campaigns, such as Facebook Retargeting (174.43%) and Google Hot (70.87%), also performed well in terms of returns.
 
-3. Which campaigns generated the most revenue and which had the highest costs?
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f265fd79-83b9-49bc-ab30-b0864b96c328" width="400"/>
+</p>
+
+
+#### 3. Which campaigns generated the most revenue and which had the highest costs?
 
 The YouTube Blogger campaign was the highest revenue generator, bringing in $15.3M with a budget of $4.1M. In contrast, Banner Partner had a marketing budget of $5M but only generated $6.2M, highlighting inefficiencies. The Facebook LAL campaign, despite spending $2.6M, earned only $0.3M, further showing negative results.
 
-4. What was the performance of campaigns on specific dates (high spending, revenue, and conversion rates)?
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b068d00-40ad-417e-97bb-399d163484ae" style="width: 300px;"/>
+</div>
+
+#### 4. What was the performance of campaigns on specific dates (high spending, revenue, and conversion rates)?
 
 On 20/02/2021, the YouTube Blogger campaign generated significant revenue of $1,452,540 with a ROMI of 378.03%, despite a budget of only $303,860. Similarly, on 17/02/2021, the same campaign achieved a ROMI of 226.86% with a budget of $363,811.
 
